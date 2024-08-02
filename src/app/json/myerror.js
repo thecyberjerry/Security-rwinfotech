@@ -21,8 +21,7 @@ const logo = {
 };
 const error = {
   errorImg: { src: "/assets/404/error.svg", alt: "Some Image" },
-  // heading: "OOPS! You Got Lost",
-  heading: "Jaggu Bandar Mast Kalandar",
+  heading: "OOPS! You Got Lost",
   desc: "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Delectus, saepe eum impedit architecto perferendis quas natus molestias laudantium aliquam quia.",
   btn: { title: "Back To Home", url: "/" },
 };
