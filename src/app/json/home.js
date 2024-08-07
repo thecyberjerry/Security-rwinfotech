@@ -8,7 +8,7 @@ const navbar = {
   ],
   phone: {
     icon: { alt: "Some Image", src: "/assets/icons/Phone-Icon.svg" },
-    phoneNo: "(999)-999-999",
+    phoneNo: "99999999",
   },
   btn: { title: "Login", url: "#", blackBackground:false },
   navbtn: { title: "Login", url: "#", blackBackground: true },
